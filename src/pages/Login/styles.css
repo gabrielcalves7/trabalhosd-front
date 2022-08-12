@@ -1,0 +1,11 @@
+.formContainer{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.c_FormInput{
+    margin-bottom: 10px;
+}
+
+.submitButton{
+    padding:5px 30px
+}
